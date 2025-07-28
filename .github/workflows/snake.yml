@@ -1,4 +1,4 @@
-name: generate animation
+name: Generates a snake game from a github user contributions graph
 
 on:
   # run automatically every 24 hours
