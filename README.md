@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there, welcome!
 
 <picture>
   <source
@@ -14,3 +14,14 @@
     src="https://raw.githubusercontent.com/cronrpc/cronrpc/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+I'm glad you're here — feel free to explore my work!
+
+🌐 Visit my personal website: [cronrpc.github.io](https://cronrpc.github.io)
+
+Here you'll find:
+- 🎮 My latest projects and experiments
+- 🛠️ Dev tools, utilities, and code snippets
+- 📝 Occasional blog posts and notes
+
+Stay curious, and thanks for visiting!
